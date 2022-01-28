@@ -5,7 +5,7 @@ This project was designed to create a website for Dasmoto's Arts & Crafts store 
 
 My site for Dasmoto's Arts & Crafts ([live](https://zacharywilkerson.github.io/codecademy_project-dasmotos_arts_crafts/)) is available through Github Pages. Feel free to have a look (preview below)!
 
-![Excursion Preview](/images/dasmotos_preview.png "Excursion Preview")
+![Excursion Preview](./images/dasmotos_preview.png "Excursion Preview")
 
 *Note*: 
 - My solution implements semantic HTML more effectively than the provided Codecademy solution (`section` as opposed to `div` containers were used)
