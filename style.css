@@ -7,7 +7,7 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url('/images/pattern.webp');
+    background-image: url('images/pattern.webp');
 }
 
 h2 {
